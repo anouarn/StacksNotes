@@ -10,4 +10,4 @@ It also offers a method for quick access to notes already saved via the quick se
 
 The application requires the .Net 4.5 framework installed which can be downloaded through the following link <a  href="https://www.microsoft.com/en-US/download/details.aspx?id=30653" >Download</a>
 
-Click <a  href="https://github.com/anouarn/rdnti/blob/TextRepeaterSpeech-1.0/TextRepeaterSpeech.exe" >here</a> to download TextRepeaterSpeech 1.0
+Click <a  href="https://github.com/anouarn/StacksNotes/blob/StacksNotes-1.0/StacksNotes.exe" >here</a> to download StacksNotes 1.0
